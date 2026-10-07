@@ -1,5 +1,4 @@
-# React-Superellipse-Shape-TypeScript-
-# React Superellipse
+# React Superellipse-Shape TypeScript
 
 A reusable React component library for building modern UI elements with **superellipse-based shapes**.
 
